@@ -25,4 +25,5 @@ Before you begin this tutorial ensure you have the following:
 There are many benefits to growing herbs in your home. It allows you to enjoy homegrown produce, which is fresher and more sustainable. For many gardening newbies who are just starting out, herbs can be a low-stakes, hardy choice that adds a dash of greenery into the home. For those who do not have the space or means to grow an entire garden, growing herbs indoors allows them to partake in the activity. 
 
 Herbs are not limited to the timeframes in which they grow. Many can be harvested and dried, allowing for continuous use.
+
 _Note:_ The process of drying herbs is outside the scope of this document. As such, it will not be discussed in this guide. 
