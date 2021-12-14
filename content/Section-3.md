@@ -17,7 +17,7 @@ To prune Parsley as it gets bigger, you may want to use scissors to cut stems as
 
 It is especially important to prune Rosemary and Mint. 
 Rosemary is prone to getting "woody", which means the main stem of the plant becomes tough and wood-like. This part of the plant will not produce any leaves or shoots, so it is important to keep pruning Rosemary to keep the plant producing leaves for use.
-![An image of a Rosemary branch with a woody stem](../visuals/Woody-Rosemary.jpg "Woody Rosemary branch")
+<img src="../visuals/Woody-Rosemary.jpg" width="200" height="200">
 
 Mint is an enthusiastic grower and will quickly fill out your pot. To ensure it is kept under control, prune the stems of your Mint plant to keep it compact.
 
