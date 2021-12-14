@@ -15,11 +15,11 @@ Soil refers to the medium in which our plants will grow. Many herbs thrive in di
 
 ## Light
 
-All plants need light and when growing plants indoors, one of the biggest challenges that faces gardeners is the amount of light that they can provide. Most herbs prefer a lot of sunlight, especially those that originate from a Mediterranean climate, like Basil. 
+All plants need light and when growing plants indoors, one of the biggest challenges that faces gardeners is the amount of light that they can provide. Most herbs prefer a lot of sunlight, especially those that originate from a Mediterranean climate, like Basil. This guide assumes the user is availing of natural sunlight. 
 
 ## Water
 
-The amount of water, the frequency of watering, and the method of watering can all have an impact on how well your plants grow. There are several methods of delivering water to your plants but we will be focusing on simply using a watering can.
+The amount of water, the frequency of watering, and the method of watering can all have an impact on how well your plants grow. There are several methods of delivering water to your plants but we will be focusing on simply using a watering can for our initial sprouts, and bottom watering by placing our plants in a container of water when they are more established. 
 
 ## Fertiliser 
 
