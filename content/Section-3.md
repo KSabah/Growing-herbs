@@ -17,11 +17,7 @@ To prune Parsley as it gets bigger, you may want to use scissors to cut stems as
 
 It is especially important to prune Rosemary and Mint. 
 Rosemary is prone to getting "woody", which means the main stem of the plant becomes tough and wood-like. This part of the plant will not produce any leaves or shoots, so it is important to keep pruning Rosemary to keep the plant producing leaves for use.
-
-<img src="../visuals/Woody-Rosemary.jpg" width="500" height="400" class="center">
-
 Mint is an enthusiastic grower and will quickly fill out your pot. To ensure it is kept under control, prune the stems of your Mint plant to keep it compact.
-
 
 Take care to remove any flower buds that appear on your plants. While flowers mean that a plant is happy, they will result in your herbs discontinuing the growth of leaves. As such, they must be cut back to ensure your plant continues to be viable for the growing season. 
 
@@ -49,9 +45,4 @@ There are a few common issues that can arise when growing herbs for the first ti
 
 If the leaves on your plant are curling or turning yellow, the plant is usually trying to retain moisture. If this occurs when the soil is wet, it means the roots are waterlogged. Water your plant more often, or cut back on watering and ensure your container has good drainage to solve this. 
 
-<img src="../visuals/Basil-yellowing.jpg" width="500" height="400" class="center">
-
 If your plant begins to grow very long and spindly with sparsely placed leaves, it is searching for more light. Move the plant into a sunnier spot or consider buying a grow light to supplement light for your plant. 
-
-<img src="../visuals/Leggy-seedlings.jfif" width="500" height="400" class="center">
-
