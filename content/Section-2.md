@@ -10,7 +10,9 @@ This section will outline the best times for planting herbs and the best practic
 
 ## When to plant
 
-When planting most plants, the time of year to plant seeds can vary depending on location. Luckily for us, since we are planting our seeds indoors, we can sow them at any time of year, though I would recommend sowing in springtime if you do not have access to a grow light, in order to avail of the natural sunlight.
+When planting most plants, the time of year to plant seeds can vary depending on location. Luckily for us, since we are planting our seeds indoors, we can sow them at any time of year, though I would recommend sowing in springtime if you do not have access to a grow light, in order to avail of the natural sunlight. The following diagram serves as a guideline as to how long it should take for each plant to go from seed to mature. 
+
+![A chart showing how long it takes each plant to go from seed to mature](../visuals/Growth-chart.png "Growth chart")
 
 ## Prepping the soil 
 
