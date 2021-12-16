@@ -1,6 +1,6 @@
 # Caring for your plants
 
-After your plants have sprouted they will require care to thrive. This section will outline some best practices for caring for you plants.
+After your plants have sprouted they will require care to thrive. This section outlines some best practices for caring for your plants.
 
 ## Table of contents
 - [Pruning](#pruning)
@@ -35,14 +35,14 @@ During winter months, when the temperature is colder, plants go into a state of 
 
 Your plants may benefit from a nutritional boost from time to time. To fertilise your plants, take any liquid fertiliser made for tomatoes and add a couple drops to your watering can. Ensure you __do not__ get any of the water on the leaves or stem, but water the soil around the base of the plant. You should fertilise your plants every three or four weeks during the growing season. 
 
-Mint __does not__ need fertilising, as it is already quite a fast growing plant, so do not feed it. 
+_Note:_ Mint __does not__ need fertilising, as it is already quite a fast growing plant, so do not feed it. 
 
-## Potential issues
+## Troubleshooting
 
 There are a few common issues that can arise when growing herbs for the first time. 
 
-"Bolting" is an issue with herb plants putting out flowers instead of focusing on growing leaves. This occurs if the plant is too hot, so if your plants start producing flowers prematurely, consider moving them to a space with good airflow to keep them cool and cut the flowers back. 
+- "Bolting" is an issue with herb plants putting out flowers instead of focusing on growing leaves. This occurs if the plant is too hot, so if your plants start producing flowers prematurely, consider moving them to a space with good airflow to keep them cool, and cut the flowers back. 
 
-If the leaves on your plant are curling or turning yellow, the plant is usually trying to retain moisture. If this occurs when the soil is wet, it means the roots are waterlogged. Water your plant more often, or cut back on watering and ensure your container has good drainage to solve this. 
+- If the leaves on your plant are curling or turning yellow, the plant is usually trying to retain moisture. If this occurs when the soil is wet, it means the roots are waterlogged. Water your plant more often, or cut back on watering and ensure your container has good drainage to solve this. 
 
-If your plant begins to grow very long and spindly with sparsely placed leaves, it is searching for more light. Move the plant into a sunnier spot or consider buying a grow light to supplement light for your plant. 
+- If your plant begins to grow very long and spindly with sparsely placed leaves, it is searching for more light. Move the plant into a sunnier spot or consider buying a grow light to supplement light for your plant. 
