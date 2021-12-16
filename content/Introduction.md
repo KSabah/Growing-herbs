@@ -10,19 +10,19 @@ There is a huge range of herbs that you can cultivate, but in this article, we w
 
 ## Prerequisites
 
-Before you begin this tutorial ensure you have the following:
+Before you begin this tutorial, ensure you have:
 
-- Access to a sunny location in you home, or grow lights to supplement light
+- Access to a sunny location in your home, or grow lights to supplement light
 - Potting soil
 - A container or plant pot with drainage holes
 - Plastic wrap or a plastic dome
-- Perlite
-- Watering can
+- A soil additive to aerate the media, such as Perlite
+- A watering can
 - Seeds of the herb you want to grow
 
 ## Why grow herbs?
 
-There are many benefits to growing herbs in your home. It allows you to enjoy homegrown produce, which is fresher and more sustainable. For many gardening newbies who are just starting out, herbs can be a low-stakes, hardy choice that adds a dash of greenery into the home. For those who do not have the space or means to grow an entire garden, growing herbs indoors allows them to partake in the activity. 
+There are many benefits to growing herbs in your home. It allows you to enjoy homegrown produce, which is fresher and more sustainable. If you are a gardening newbie, herbs can be a low-stakes, hardy choice that adds a dash of greenery into the home. If you do not have the space or means to grow an entire garden, growing herbs indoors allows you to partake in the activity. 
 
 Herbs are not limited to the timeframes in which they grow. Many can be harvested and dried, allowing for continuous use.
 
