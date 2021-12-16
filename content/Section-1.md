@@ -1,6 +1,6 @@
 # Key concepts
 
-There are a number of key concepts that you will need to become familiar with before tyou begin planting your seeds. This page outlines these concepts. 
+There are a number of key concepts that you will need to become familiar with before you begin planting your seeds. This page outlines these concepts. 
 
 ## Table of Contents
 - [Soil](#soil)
