@@ -1,6 +1,6 @@
 # Key concepts
 
-There are a number of key concepts that the user will need to become familiar with before they begin planting their seeds. This page outlines these concepts for the user. 
+There are a number of key concepts that you will need to become familiar with before tyou begin planting your seeds. This page outlines these concepts. 
 
 ## Table of Contents
 - [Soil](#soil)
@@ -11,19 +11,19 @@ There are a number of key concepts that the user will need to become familiar wi
 
 ## Soil
 
-Soil refers to the medium in which our plants will grow. Many herbs thrive in different kinds of soil, but all the herbs chosen for this tutorial enjoy a similar type of soil. For the purpose of this tutorial, we will be modifying ordinary potting soil to suit the needs of our herbs. 
+Soil refers to the medium in which your plants will grow. Many herbs thrive in different kinds of soil, but all the herbs chosen for this tutorial enjoy a similar type of soil. For the purpose of this tutorial, you will be modifying ordinary potting soil to suit the needs of your herbs. 
 
 ## Light
 
-All plants need light and when growing plants indoors, one of the biggest challenges that faces gardeners is the amount of light that they can provide. Most herbs prefer a lot of sunlight, especially those that originate from a Mediterranean climate, like Basil. This guide assumes the user is availing of natural sunlight. 
+All plants need light and when growing plants indoors, one of the biggest challenges that gardeners face is the amount of light that they can provide. Most herbs prefer a lot of sunlight, especially those that originate from a Mediterranean climate, like Basil. This guide assumes you are availing of natural sunlight. 
 
 ## Water
 
-The amount of water, the frequency of watering, and the method of watering can all have an impact on how well your plants grow. There are several methods of delivering water to your plants but we will be focusing on simply using a watering can for our initial sprouts, and bottom watering by placing our plants in a container of water when they are more established. 
+The amount of water, the frequency of watering, and the method of watering can all have an impact on how well your plants grow. There are several methods of delivering water to your plants, but you will be using a watering can for your initial sprouts, and then bottom watering by placing your plants in a container of water when they are more established. 
 
 ## Fertiliser 
 
-Herbs are not voracious feeders, so they do not require too much fertilisation. However, since our plants are being grown indoors in containers, they will benefit from a feeding of fertiliser every now and then. 
+Herbs are not voracious feeders, so they do not require too much fertilisation. However, since your plants are being grown indoors in containers, they will benefit from a feeding of fertiliser every now and then. This will be discussed in more detail in a later section. 
 
 ## Pruning
 
